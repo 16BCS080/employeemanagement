@@ -1,7 +1,8 @@
 # employeemanagement
  
+ admin login
  email: 'unabletoseewe@gmail.com',
- password 'unabletoseewe
+ password 'unabletoseewe'
 
 sample db:- user
 [
